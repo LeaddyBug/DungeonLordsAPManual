@@ -1,7 +1,7 @@
 # DungeonLordsAPManual
 Dungeon Lords 1.5 manual randomizer for Archipelago
 This only works for classic Dungeon Lords (not steam version). And must be version 1.5 (collector's edition)
-Why classic version over steam verrsion? Classic DLords has access to a game editor made by Steve2d back in 2006 and with that you can give yourself items, set classes, give skill points, and sometimes even set flags for quests.
+Why classic version over steam version? Classic DLords has access to a game editor made by Steve2d back in 2006 and with that you can give yourself items, set classes, give skill points, and sometimes even set flags for quests.
 And as for why I chose version 1.5... it added many more chests to the game and fixed some bugs (and maybe added a couple), but more accurately I chose this because it's the one I played growing up.
 With that out of the way
 --THINGS YOU NEED TO KNOW FOR WHEN YOU PLAY--
